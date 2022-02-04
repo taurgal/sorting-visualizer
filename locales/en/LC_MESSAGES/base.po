@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-02-04 10:49+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: src/sorting_visualizer.py:30
+msgid "all"
+msgstr ""
+
+#: src/sorting_visualizer.py:32
+msgid "Insertion Sort"
+msgstr ""
+
+#: src/sorting_visualizer.py:34
+msgid "Shell Sort"
+msgstr ""
+
+#: src/sorting_visualizer.py:36
+msgid "Selection Sort"
+msgstr ""
+
+#: src/sorting_visualizer.py:38
+msgid "Merge Sort"
+msgstr ""
+
+#: src/sorting_visualizer.py:40
+msgid "Quick Sort"
+msgstr ""
+
+#: src/sorting_visualizer.py:42
+msgid "Heap Sort"
+msgstr ""
+
+#: src/sorting_visualizer.py:44
+msgid "Bubble Sort"
+msgstr ""
+
+#: src/sorting_visualizer.py:46
+msgid "Comb Sort"
+msgstr ""
+

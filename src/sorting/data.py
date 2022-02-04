@@ -15,10 +15,9 @@ class Data:
         self.set_color()
 
     def set_color(self, rgba = None):
-        if not rgba:
+        if rgba is None:
             rgba = (0,
                     1 - self.value / (self.data_count * 2),
                     self.value / (self.data_count * 2) + 0.5,
                     1)
         self.color = rgba
-    
